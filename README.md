@@ -2,4 +2,4 @@
 
 ## Current Projects
 
-[UNG Weather Stations](https://andytruett.github.io/ungwx)
+[UNG WeatherSTEM Stations](https://andytruett.github.io/ungwx)
